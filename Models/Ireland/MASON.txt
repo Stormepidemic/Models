@@ -1,0 +1,9 @@
+Motherboard: http://www.newegg.com/Product/Product.aspx?Item=N82E16813130637
+CPU: http://www.newegg.com/Product/Product.aspx?Item=N82E16819113286
+GPU: http://www.newegg.com/Product/Product.aspx?Item=N82E16814487091&ignorebbr=1
+Powersupply: http://www.newegg.com/Product/Product.aspx?Item=N82E16817182022
+Harddrive: http://www.newegg.com/Product/Product.aspx?Item=9SIA4P031W6633
+Case: http://www.newegg.com/Product/Product.aspx?Item=N82E16811154109&ignorebbr=1
+RAM: http://www.newegg.com/Product/Product.aspx?Item=N82E16820231277
+
+$536.93

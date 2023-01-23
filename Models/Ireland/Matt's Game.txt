@@ -1,0 +1,11 @@
+ depends on which ship
+"Battleship": 0, #most powerful weapons
+"Destroyer": 1, #best for defending
+"Shuttle": 2, #transporting
+"Bomber": 3, #Heavy fighter-sized craft, armed with big missiles, best for taking out battleships
+"Interceptor": 4, #Light, fast fighter whose primary purpose is taking out bombers
+"Scout": 4, #fast and efficient travel
+"Corvette": 5, #small, cheap, good for small raids
+"Escorts": 6, #like destroyers but smaller and less powerful
+"Repair Ship": 7, #good for repairing ships
+"Recon": 8, #Trades weapons for sensors, stealth, and speed--like scouts with better weapons
